@@ -1,0 +1,42 @@
+2 start back right
+50
+10 [
+2 left L M
+2
+2 down
+]
+10 [
+2 right L M
+2
+2 down
+]
+10 [
+2 left L M
+2
+2 down
+]
+10 [
+2 right L M
+2
+2 down
+]
+10 [
+2 left L M
+2
+2 down
+]
+10 [
+2 right L M
+2
+2 down
+]
+10 [
+2 left L M
+2
+2 down
+]
+10 [
+2 right L M
+2
+2 down
+]
