@@ -115,7 +115,6 @@ def marvel_assist(filename):
             start(filename)
         else:
             print('Could not connect to device')
-            end()
     else:
         print('Could not load API')
     end()
